@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Quantity</string>
+    <string name="_0">0</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+    <string name="_20">$0</string>
+    <string name="addsign">+</string>
+    <string name="minussign">-</string>
+    <string name="name">Name</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate_toppings">Chocolate Toppings</string>
+    <string name="email">aryan.prince999@gmail.com</string>
+</resources>
